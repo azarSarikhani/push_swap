@@ -29,3 +29,11 @@ Here's an example of the program's output:
 <img width="705" alt="Screen Shot 2023-02-22 at 16 04 40" src="https://user-images.githubusercontent.com/35448350/220644156-2f8b0e73-6188-4779-970c-cda9250bcb86.png">
 
 I am using my own libft, and my own printf and only write, and malloc and free from C's libraries.
+
+# Refrancces
+To do this project I used many resources to get and inspirations for the algorithem, links for which could be found below:
+
+- https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e
+
+-  https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
+
